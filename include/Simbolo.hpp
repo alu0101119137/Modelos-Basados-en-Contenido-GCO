@@ -6,10 +6,6 @@
 #include <vector>
 #include <iomanip>
 
-
-/**
- * @brief      This class describes a Simbolo.
- */
 class Simbolo {
 
 	private:
