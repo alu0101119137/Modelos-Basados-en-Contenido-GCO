@@ -2,9 +2,6 @@
 #include <iostream>
 #include "Preprocesador.hpp"
 
-/**
- * @brief      Esta clase describe un Articulo.
- */
 class Articulo {
 
 	private:
