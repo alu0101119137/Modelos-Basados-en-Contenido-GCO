@@ -18,3 +18,7 @@ La clase recomendación en primer lugar se encarga de leer el fichero que se pas
 
 ## Ejemplo de uso
 Para el uso del código, se necesita crear la estructura de directorios como la que hay en este repositorio,es decir, un directorio bin, otro build dentro del cual se encuentra el Makefile, un directorio include con todos los ficheros de cabeceras de la clase, un directorio inputs donde está el fichero de entrada del programa con los artículos a utilizar y por último, el directorio src donde se encuentra el código fuente de las clases y el programa pincipal. Una vez tenemos la estructura de directorios creada, tenemos que posicionarnos en el directorio build y ejecutar el comando make, una vez compilado se ejecuta mediante make run y el programa muestra por pantalla el resultado de los artículos que están en el ficher de entrada. Si quisieramos probar otros artículos lo que tenemos que hacer es copiar los que queremos probar en el fichero de entrada *input_file.txt*. Una vez ejecutado el programa se vería así en la terminal:
+- Las tablas de los artículos y sus palabras:
+![articulos y palabras con sus datos](https://github.com/alu0101119137/Modelos-Basados-en-Contenido-GCO/blob/main/img/Captura%20de%20pantalla%20de%202021-12-16%2012-35-46.png)
+- Los cosenos de los artículos:  
+![](https://github.com/alu0101119137/Modelos-Basados-en-Contenido-GCO/blob/main/img/Captura%20de%20pantalla%20de%202021-12-16%2012-36-42.png)
